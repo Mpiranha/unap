@@ -147,7 +147,7 @@ h6,
 }
 
 .wp-block-button__link{
-	background: #fc4446;
+	background: rgb(255, 179, 0);
 	font-size: 18px;
 	border-radius: 0;
 }
@@ -515,7 +515,7 @@ MICS
 .agency-pagination a:hover,
 .agency-pagination span:hover,
 .agency-pagination span.current{
-	background: #fc4446;
+	background: rgb(255, 179, 0);
 	color: #fff;
 }
 
@@ -562,8 +562,8 @@ MICS
 .pager li > a:focus,
 .page-numbers li a:hover,
 .page-numbers li a:focus {
-	background: #fc4446;
-	border: 1px solid #fc4446;
+	background: rgb(255, 179, 0);
+	border: 1px solid rgb(255, 179, 0);
 }
 
 .pager li > a small{
@@ -826,7 +826,7 @@ nav.sidenav li,
 }
 
 .nav.navbar-nav.navbar-left .sub-menu li a:hover{
-	color: #fc4446;
+	color: rgb(255, 179, 0);
 }
 
 .nav.navbar-nav.navbar-left li{
@@ -959,8 +959,8 @@ nav.sidenav li,
 }
 
 .post-password-form input[type="submit"]{
-	background-color: #fc4446;
-    border: 1px solid #fc4446;
+	background-color: rgb(255, 179, 0);
+    border: 1px solid rgb(255, 179, 0);
 	color: #fff;
 	height: 40px;
 	padding: 0 15px;
@@ -1332,8 +1332,8 @@ SECTION
 }
 
 .widget_newsletterwidget .tnp-widget .tnp-submit{
-	background: #fc4446!important;
-	border-color: #fc4446!important;
+	background: rgb(255, 179, 0)!important;
+	border-color: rgb(255, 179, 0)!important;
 	padding: 16px 30px!important;
 	text-transform: uppercase;
 	font-size: 12px!important;
@@ -1625,7 +1625,7 @@ BLOG
 }
 
 .comment-reply-link{
-	background: #fc4446;
+	background: rgb(255, 179, 0);
 	color: #fff;
 	font-weight: 500;
 	letter-spacing: 2px;
@@ -3326,7 +3326,7 @@ RESPONSIVE
 }
 
 .wspsc_add_cart_submit{
-	background: #fc4446;
+	background: rgb(255, 179, 0);
 	padding: 10px 20px;
 	border: none;
 	font-size: 15px;
@@ -3346,7 +3346,7 @@ RESPONSIVE
 
 .section.bb:hover .footer-top-widget a,
 .section.bb:hover .footer-top-widget{
-	color: #fc4446;
+	color: rgb(255, 179, 0);
 }
 
 .section.bb caption,

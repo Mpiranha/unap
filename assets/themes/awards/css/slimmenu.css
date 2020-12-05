@@ -196,7 +196,7 @@
 .header_style_2 .slim-wrap ul.menu-items li {background: none;}
 .slim-wrap ul.menu-items li a { color: #121212;text-transform: uppercase; font-size: 12px; font-weight: 400;}
 .header_style_2 .slim-wrap ul.menu-items li a { color: #ffffff; font-weight: 700;}
-.slim-wrap ul.menu-items li a:hover {background: transparent; color: #fc4446;}
+.slim-wrap ul.menu-items li a:hover {background: transparent; color: rgb(255, 179, 0);}
 .slim-wrap ul.menu-items li .sub-collapser {background: transparent;}
 .slim-wrap ul.menu-items li .sub-collapser > i {color: #a0a0a0;}
 .header_style_2 .slim-wrap ul.menu-items li .sub-collapser > i {color: #ffffff;}

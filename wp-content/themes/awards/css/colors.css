@@ -18,7 +18,7 @@ a,
 .bb:hover .callout .lead,
 .bb:hover .callout h4,
 .bb:hover .callout h3 {
-    color: #fc4446;
+    color: rgb(255, 179, 0);
 }
 
 mark,
@@ -28,12 +28,12 @@ mark,
 .navbar-default .navbar-nav > li.submit:hover a,
 .navbar-default .navbar-nav > li.submit,
 .navbar-default .navbar-nav > li > a:before {
-    background-color: #fc4446;
+    background-color: rgb(255, 179, 0);
 }
 
 .site-single-share .cat_list.site-cat a:hover {
-    background-color: #fc4446 !important;
-    border-color: #fc4446 !important;
+    background-color: rgb(255, 179, 0) !important;
+    border-color: rgb(255, 179, 0) !important;
     color: #ffffff !important;
 }
 
@@ -65,30 +65,30 @@ mark,
 .btn-offical:hover,
 .pagination li.current a,
 .more-link {
-    background-color: #fc4446;
-    border-color: #fc4446;
+    background-color: rgb(255, 179, 0);
+    border-color: rgb(255, 179, 0);
     color: #ffffff !important;
 }
 
 .header {
-    border-top-color: #fc4446;
+    border-top-color: rgb(255, 179, 0);
 }
 
 .form-control:focus,
 .footer li:hover a {
-    border-color: #fc4446;
+    border-color: rgb(255, 179, 0);
 }
 
 ::-moz-selection {
     color: #ffffff;
     text-shadow: none;
-    background: #fc4446;
+    background: rgb(255, 179, 0);
 }
 
 ::selection {
     color: #ffffff;
     text-shadow: none;
-    background: #fc4446;
+    background: rgb(255, 179, 0);
 }
 
 .bootstrap-select .form-control:focus {
